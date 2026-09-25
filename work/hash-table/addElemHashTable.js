@@ -1,5 +1,9 @@
 function addElemHashTable(arr, key, val){
-    if(arr.hasOwnProperty(key)) console.log('Такой элемент уже существует')
+    if(arr.hasOwnProperty(key)){
+        console.log('Такой элемент уже существует');
+        arr[key] = val;
+        console.log('Новое значение ключа '+ key+' = '+val); 
+    }
     else{arr[key] = val}
     return arr;
 }
