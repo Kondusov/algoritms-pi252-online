@@ -1,4 +1,4 @@
 Напишите функцию реализующую структуру данных - стек.
 Напишите функцию реализующую структуру данных - очередь.
 
-см.
+см. https://github.com/Kondusov/algoritms-pi252-online/blob/main/work/stackAndqueue.js
