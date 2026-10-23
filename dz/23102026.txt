@@ -1,0 +1,5 @@
+Книга https://www.klex.ru/1718
+Репозиторий наш https://github.com/Kondusov/algoritms-pi252-online/tree/main
+---------------------------------
+Деревья стр. 254
+Прочесть, выписать основные моменты.
